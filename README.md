@@ -36,12 +36,32 @@ GenericSort
 
 *** Classes ***
 
+HeapSort - this class doing the actuall sorting. it builds a heap, doing sift down and swap.
+
+Main - this class include the instructions of this program. this is where the interaction user occurs.
 
 *** Running The Program ***
-
+Navigate to Start -> Run.
+Type CMD and press Enter.
+Set the path to your JDK bin directory, for example: "set path=C:\Program Files\Java\jdk1.8.0_161\bin".
+Navigate to the project's source folder, for example: "cd javaWorkspace/DI2".
+Type the command: "javac Main.java".
 
 *** Exit The Program ***
 
+follow the instruction . 
+it can be by press the digit '3' or press 'N' when the program asking.
+
+*** Appendix ***
+the program will represent a menu. The user need to follow the instructions.
+
+at the start:
+
+press: 1 to sort an integer array.
+
+       2 to sort string array.
+       
+       3 for exit.      
 
 *** Algoritems ***
 
