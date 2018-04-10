@@ -4,9 +4,9 @@
 
 *** Developers Information: ***
 
-Idan Koper, ID 204391130
+Idan Koper, ID 204391130.
 
-Dganit Uzan, ID 
+Dganit Uzan, ID 206067563.
 
 E-mail: idankoper@gmail.com, dganit230395@gmail.com
 
