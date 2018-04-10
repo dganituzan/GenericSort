@@ -34,8 +34,24 @@ For instance, an empty array, sorted array, etc.
 
 GenericSort
 
+*** Classes ***
 
 
+*** Running The Program ***
+
+
+*** Exit The Program ***
+
+
+*** Algoritems ***
+
+Heap Sort: https://en.wikipedia.org/wiki/Heapsort
+
+*** Definitions ***
+
+comparable <T> (generic methods): https://en.wikipedia.org/wiki/Generics_in_Java#Generic_method_definitions
+
+Heap: https://en.wikipedia.org/wiki/Heap_(data_structure)
 
 
   
